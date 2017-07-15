@@ -3,6 +3,10 @@ package com.app.dog.dogapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+
+/**
+ * @author eladiosuarez
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
